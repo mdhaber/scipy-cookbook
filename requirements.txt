@@ -1,4 +1,1 @@
-sphinx_rtd_theme
-nbconvert>=5.1
-jupyter_client>=4.4
-lxml
+scipy>=1.6
